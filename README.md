@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarccasm
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript, and C++.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I'm not looking for cooperation yet.
 - 📫 You can contact me in Telegram: johntitorr
 
